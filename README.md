@@ -20,6 +20,7 @@ You can reach me via email at naseebwali.kdr@gmail.com or telegram @walinaseebul
 
 ## 📝 License
 This project is licensed under the MIT License.
+- [LICENSE](LICENSE)
 
 Naseebullah Wali's GitHub stats
 
