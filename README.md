@@ -7,6 +7,7 @@ I'm a student at **ITMO University** who loves working with web technologies. I'
 - JavaScript (Vue.js, Vuex, Express)
 - TypeScript
 - Firebase
+- Java (Spring)
 ## 🚀 My projects
 - Project 1: A responsive book-Search website built with Vue.js, Vuex,Boostrap and firebase. Repository, [Repository](https://github.com/Naseebullah-Wali/Lab_3_Front_end/tree/main/book-project)
 - Project 2: A responsive Food-Search website built with Vue.js, Vuex, and Tailwind. Repository, Repository, [Repository](https://github.com/Naseebullah-Wali/FoodSearchProject)
