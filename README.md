@@ -4,7 +4,7 @@ I'm a student at **ITMO University** who loves working with web technologies. I'
 ## 🔭 My skills and expertise
 - HTML
 - CSS (SCSS, Bootstrap, Tailwind)
-- JavaScript (Vue.js, Vuex, Express)
+- JavaScript (Vue.js, Vuex, Express, Jest)
 - TypeScript
 - Firebase
 - Java (Spring)
